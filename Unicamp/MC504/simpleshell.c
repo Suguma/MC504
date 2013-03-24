@@ -98,3 +98,5 @@ void executar(char** cmdLine, char** mander, int dirCounter, int cmdCounter){
   free(command);
   return;
 }
+
+//comment
